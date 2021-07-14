@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 
 
-<h2> Hey there! I'm Abhishek Narsing.</h2>
+<h2> Hey there! We are Developers.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 About us </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated in Mechanical Engineering at AVN Institute of Technology, Hyderabad.
@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-⭐️ From **[Abhishek Narsing](https://github.com/Abhisheknarsing)**
+⭐️ From **[Webmavericks softcoders](https://webmavericks.org)**
